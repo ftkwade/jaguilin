@@ -6,7 +6,7 @@ body {
    
 }
 .label{
-    font-family: Vegur, 'Brush Script MT', Verdana, sans-serif;
+    font-family: 'Ephesis';
     text-align: center;
     color: purple;
     cursor: grab;
@@ -16,7 +16,7 @@ body {
     position: relative;
     /*https://codetheworld.io/wp-content/uploads/2023/12/RwveLeG_cat.png*/
     
-    background-image: url("./img/cat.png");
+    background-image: url("https://codetheworld.io/wp-content/uploads/2023/12/RwveLeG_cat.png");
     height: 195px;
     width: 150px;
     background-position: -5px -45px;
